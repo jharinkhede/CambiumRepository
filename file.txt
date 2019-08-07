@@ -6,4 +6,4 @@ Adding comment to look conflick scenario
 
 Eiditing file from remote
 Bug removed
-
+Editing file creating REBASE scenario commit
